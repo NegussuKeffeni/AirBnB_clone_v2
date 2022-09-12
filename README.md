@@ -1,1 +1,1 @@
-# AirBnB_clone_v2
+# AirBnB_v2 from AirBnB
